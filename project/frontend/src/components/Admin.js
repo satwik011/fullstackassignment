@@ -41,10 +41,10 @@ export const Td = styled.td`
   padding: 10px;
 `;
 const PrimaryBlueButton = styled.button`
-  background-color: #007bff; /* Use the primary blue color code */
-  color: #fff; /* Text color */
-  padding: 10px 20px; /* Adjust padding as needed */
-  font-size: 16px; /* Adjust font size as needed */
+  background-color: #007bff; 
+  color: #fff; 
+  padding: 10px 20px; 
+  font-size: 16px; 
   border: none;
   border-radius: 5px;
   cursor: pointer;
@@ -63,9 +63,9 @@ export const inputDiv = styled.div`
 export const StyledInput = styled.input`
   padding: 10px;
   font-size: 16px;
-  border: 1px solid #007bff; /* Use the same primary blue color for the border */
+  border: 1px solid #007bff;
   border-radius: 5px;
-  margin-right: 10px; /* Add some margin if needed */
+  margin-right: 10px;
 `;
 
 const Admin = () => {
